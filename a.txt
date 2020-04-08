@@ -1,2 +1,3 @@
 Teste
 Entendendo o git 
+Está linha foi modificada no ramo Master
